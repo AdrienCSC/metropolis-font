@@ -1,7 +1,15 @@
 @font-face {
     font-family: 'Metropolis';
-    src: url('https://adriencsc.github.io/metropolis-font/Metropolis-Black.woff2') format('woff2'),
-         url('https://adriencsc.github.io/metropolis-font/Metropolis-Black.woff') format('woff');
+    src: url('https://AdrienCSC.github.io/metropolis-font/Metropolis-Bold.woff2') format('woff2'),
+         url('https://AdrienCSC.github.io/metropolis-font/Metropolis-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('https://AdrienCSC.github.io/metropolis-font/Metropolis-Black.woff2') format('woff2'),
+         url('https://AdrienCSC.github.io/metropolis-font/Metropolis-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
 }
